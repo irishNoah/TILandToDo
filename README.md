@@ -5,12 +5,14 @@
 1. To Do
 - [React - React 환경 셋팅하기](https://velog.io/@irish/ReactJS-Movie-Web-Service-SettingReact)
 - [React - Component Modularization(컴포넌트 모듈화) & PropTypes](https://velog.io/@irish/ReactJS-Movie-Web-Service-Component-Modularization-PropTypes)
-2. Reference
+2. TIL
+- [PostgreSQL 로드맵](https://roadmap.sh/postgresql-dba)
+- [2023 자바스크립트 라이징스타 - Teo님 추천](https://risingstars.js.org/2023/ko) 
 - [create-react-app을 활용해 React 프로젝트 시작하기](https://deku.posstree.com/ko/react/create-react-app/start/)
 - [React - node_modules, package.json, gitignore](https://velog.io/@joahkim/React-nodemodules-package.json-gitignore)
 - [React - PropTypes 공식문서](https://reactjs-kr.firebaseapp.com/docs/typechecking-with-proptypes.html)
 - [React - PropTypes 쓰는 이유, 방법, 정의, 종류, 기본 함수, 정의 함수](https://velog.io/@eunjin/React-PropTypes-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%B0%A9%EB%B2%95)
- 
+<br>
 
 > 240415
 1. To Do
