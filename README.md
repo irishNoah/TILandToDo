@@ -3,7 +3,7 @@
 
 > 240417
 1. To Do
-- [React - useState](https://velog.io/@irish/ReactJS-Movie-Web-Service-GetMethodAndData)
+- [React - useState](https://velog.io/@irish/ReactJS-Movie-Web-Service-useState)
   - useState 란
   - StrictMode 란
   - 트러블 슈팅 
