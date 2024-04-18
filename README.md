@@ -6,8 +6,10 @@
 - [Hook & useEffect](https://velog.io/@irish/ReactJS-Movie-Web-Service-Hook-And-useEffect)
   - Hook
   - useEffect 정의 / 선언 / 사용법 / 실습
+- World IT Show 2024 박람회 참관 
 2. TIL
-- []()
+- [IT 창업 9년차가 알려주는 '무조건' 도움되는 업무툴 TOP5🔥](https://www.youtube.com/watch?v=6t-1B7GH0sk)
+- [저는 ChatGPT 실리콘밸리에서 이렇게 배웠습니다. 전부 다 알려드릴게요](https://www.youtube.com/watch?v=K1mCgq6RYhI)
 3. Reference
 - [React - Hooks란?](https://velog.io/@niboo/React-Hooks-%EB%9E%80)
 - [React - 구조 분해 할당](https://velog.io/@niboo/React-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9feat.-useState)
