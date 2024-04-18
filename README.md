@@ -9,6 +9,20 @@
 - World IT Show 2024 박람회 참관 
 2. TIL
 - [IT 창업 9년차가 알려주는 '무조건' 도움되는 업무툴 TOP5🔥](https://www.youtube.com/watch?v=6t-1B7GH0sk)
+  - 링크드인
+    - 온라인 이력서
+    - 해외 스탠다드
+  - 구글 캘린더
+    - 일정 관리
+  - 슬랙 / 구글 팀즈
+    - 협업 툴
+  - 피그마 / 캔바 (=미리캔버스)
+    - 디자인
+    - 피그마
+      - 웹 / 앱 Focus
+      - 디자이너의 스탠다드
+    - 캔바
+      - 비디자이너
 - [저는 ChatGPT 실리콘밸리에서 이렇게 배웠습니다. 전부 다 알려드릴게요](https://www.youtube.com/watch?v=K1mCgq6RYhI)
 3. Reference
 - [React - Hooks란?](https://velog.io/@niboo/React-Hooks-%EB%9E%80)
