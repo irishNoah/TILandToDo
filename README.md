@@ -1,6 +1,22 @@
 # TILandToDo
 배운 것과 한 것<br><br>
 
+> 240418
+1. To Do
+- [Hook & useEffect](https://velog.io/@irish/ReactJS-Movie-Web-Service-Hook-And-useEffect)
+  - Hook
+  - useEffect 정의 / 선언 / 사용법 / 실습
+2. TIL
+- []()
+3. Reference
+- [React - Hooks란?](https://velog.io/@niboo/React-Hooks-%EB%9E%80)
+- [React - 구조 분해 할당](https://velog.io/@niboo/React-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9feat.-useState)
+- [React - useEffect 공홈](https://react.dev/reference/react/useEffect)
+- [React - useEffect란? userEffect 사용법](https://goddaehee.tistory.com/308)
+- [React - useEffect 간단한 사용법](https://velog.io/@yeonsubaek/React-Hooks-useEffect-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [React - useEffect 의존성 배열 관리 방법](https://velog.io/@ksh4820/useEffect-%EC%9D%98%EC%A1%B4%EC%84%B1-%EB%B0%B0%EC%97%B4-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95)
+<br>
+
 > 240417
 1. To Do
 - [React - useState](https://velog.io/@irish/ReactJS-Movie-Web-Service-useState)
