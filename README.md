@@ -1,9 +1,27 @@
 # TILandToDo
 배운 것과 한 것<br><br>
 
+> 240419
+1. To Do
+- [React - useEffect & clean-up](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-clean-up)
+  - clean up 사용 이유
+  - 미사용 예시 vs 사용 예시
+- World IT Show 2024 박람회 참관 
+2. TIL
+- [신입 개발자의 취업 준비](https://velog.io/@yoosion030/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84-%EC%9E%91%EC%84%B1-%EA%B8%80)
+- [신입 개발자의 질문 방법 (커피챗)](https://velog.io/@yoosion030/3.-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%88%EB%AC%B8-%EB%B0%A9%EB%B2%95-%EC%BB%A4%ED%94%BC%EC%B1%97)
+- [‘일 잘한다' 칭찬 받는 사람들의 공통점](https://eopla.net/magazines/87#)
+3. Reference
+- [Community - Google Develper Groups](https://gdg.community.dev/)
+- [React - Effect Hook (Clean-up)](https://velog.io/@enjoywater/React-Effect-Hook-Clean-up)
+- [AI - 생성형 인공지능 활용 웹사이트 디자인, Framer AI](https://www.youtube.com/watch?v=v_FjY7Udmz0)
+- [Blog - AI 코딩테스트 플랫폼, Codee](https://velog.io/@oxxun21/AI-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC-Codee)
+- [javascript - 소수점 자리 정해주는 Number 함수 toFixed()](https://powerku.tistory.com/183#google_vignette)
+<br>
+
 > 240418
 1. To Do
-- [Hook & useEffect](https://velog.io/@irish/ReactJS-Movie-Web-Service-Hook-And-useEffect)
+- [React - Hook & useEffect](https://velog.io/@irish/ReactJS-Movie-Web-Service-Hook-And-useEffect)
   - Hook
   - useEffect 정의 / 선언 / 사용법 / 실습
 - World IT Show 2024 박람회 참관 
