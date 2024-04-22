@@ -1,6 +1,22 @@
 # TILandToDo
 배운 것과 한 것<br><br>
 
+> 240422
+1. To Do
+- [4월 3주차 회고](https://velog.io/@irish/2024-4-3-Review)
+2. TIL
+- [React - FETCH 와 AXIOS 의 차이점](https://velog.io/@ony/USEFETCH-%EC%99%80-AXIOS-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+3. Reference
+- [Web - 아임웹](https://imweb.me/)
+- [Web & Youtube - 홈페이지마법사](https://www.youtube.com/@Homgwart)
+- [AI - Chat GPT밖에 모른다면? 지금 당장 써야 하는 AI 툴 5](https://ko-blog.smore.im/marketing-insights/ai-tools/?utm_source=oneoneone)
+- [React & NODE & Express 연동 - 코딩애플](https://codingapple.com/unit/nodejs-react-integration/)
+- [React & NODE & Express - 로그인/회원가입 예제](https://sirius7.tistory.com/101)
+- [React - 리액트 그래프/차트 라이브러리 모음](https://velog.io/@eunjin/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B7%B8%EB%9E%98%ED%94%84%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%AA%A8%EC%9D%8C)
+- [Web - 온라인 출석부, VIEW 개발 후기](https://velog.io/@ubin_ing/develop-view)  
+<br>
+
+
 > 240420 - 240421
 1. To Do
 - [4월 3주차 회고](https://velog.io/@irish/2024-4-3-Review)
