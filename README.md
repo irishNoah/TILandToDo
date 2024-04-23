@@ -9,15 +9,21 @@
   - ul & li tag
 2. TIL
 - [javascript - form의 action 과 onSubmit의 차이](https://velog.io/@suminllll/form%EC%9D%98-action-%EA%B3%BC-onSubmit%EC%9D%98-%EC%B0%A8%EC%9D%B4)
-- [javascript - Event.preventDefault()](https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault)
+- [MDN & javascript - Event.preventDefault()](https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault)
 - [javascript - map() 함수](https://mjn5027.tistory.com/80)
 - [React - e.target.value에 대한 탐구](https://jemerald.tistory.com/24)
 - [HTML & javascript - array 형태의 데이터를 li에 넣어서 list화 하기](https://sosoo1sosoo.tistory.com/158)
-- [HTML - li tag](https://developer.mozilla.org/ko/docs/Web/HTML/Element/li)
+- [MDN & HTML - li tag](https://developer.mozilla.org/ko/docs/Web/HTML/Element/li)
+- [MDN & HTML - Promise](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Eclipse - 이클립스 SVN 설치 및 연동](https://cnplog.tistory.com/5)
+- [Eclipse - 파일 오픈시 창(코드) 위치](https://tozitizi.tistory.com/entry/%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%ED%8C%8C%EC%9D%BC-%EC%98%A4%ED%94%88%EC%8B%9C-%EC%B0%BD%EC%BD%94%EB%93%9C-%EC%9C%84%EC%B9%98)
+- [Eclipse - 이클립스에서 Tomcat 서버 설정하기](https://dev-handbook.tistory.com/32)
+- [CS - Trouble Shooting 트러블 슈팅이란?](https://velog.io/@lgsgst5613/Trouble-Shooting-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 3. Reference
-- []()
-- []()
-- []()
+- [Portfolio - 우리들은 엔지니어다. (개발자 이력서/포폴 작성에서 가장 치명적인 실수들)](https://velog.io/@hope0206/%EC%9A%B0%EB%A6%AC%EB%93%A4%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8B%A4.-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EB%A0%A5%EC%84%9C%ED%8F%AC%ED%8F%B4-%EC%9E%91%EC%84%B1%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8-%EC%8B%A4%EC%88%98%EB%93%A4)
+- [YouTube(JSCODE 박재성) - 회사에서 인정받는 개발자로 성장하는 방법](https://www.youtube.com/watch?v=r3OKNNVA098)
+- [YouTube(JSCODE 박재성) - 바쁜 개발자를 위한 가성비 좋은 재테크 방법](https://www.youtube.com/shorts/ajAgKlusgVA)
+- [YouTube(조코딩) - AI 뉴스 - 라마3 출시, 어도비 속 소라, MS VASA, AI 핀 논란, 압도하는 오픈AI, 구글 AI 1000억 투자 등](https://www.youtube.com/watch?v=Crd1SR9ibRI)
 <br>
 
 
