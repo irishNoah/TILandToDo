@@ -3,7 +3,27 @@
 
 > 240422
 1. To Do
-- [4월 3주차 회고](https://velog.io/@irish/2024-4-3-Review)
+- [React - To Do List Part1](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-One)
+  - Form tag
+- [React - To Do List Part2](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-Two)
+  - ul & li tag
+2. TIL
+- [javascript - form의 action 과 onSubmit의 차이](https://velog.io/@suminllll/form%EC%9D%98-action-%EA%B3%BC-onSubmit%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [javascript - Event.preventDefault()](https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault)
+- [javascript - map() 함수](https://mjn5027.tistory.com/80)
+- [React - e.target.value에 대한 탐구](https://jemerald.tistory.com/24)
+- [HTML & javascript - array 형태의 데이터를 li에 넣어서 list화 하기](https://sosoo1sosoo.tistory.com/158)
+- [HTML - li tag](https://developer.mozilla.org/ko/docs/Web/HTML/Element/li)
+3. Reference
+- []()
+- []()
+- []()
+<br>
+
+
+> 240422
+1. To Do
+- None
 2. TIL
 - [React - FETCH 와 AXIOS 의 차이점](https://velog.io/@ony/USEFETCH-%EC%99%80-AXIOS-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 3. Reference
