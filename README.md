@@ -3,6 +3,17 @@
 
 > 240422
 1. To Do
+- [Trouble Shooting - [DBeaver(240424)] Cant’t lock worksapce at 폴더경로](https://fir-conga-fc3.notion.site/DBeaver-240424-Cant-t-lock-worksapce-at-a6a278314f5443c1a2b39760d4827904)
+- [Trouble Shooting - ]()
+- [Trouble Shooting - ]()
+2. TIL
+- []()
+3. Reference
+- [Trend - 요즘 뜨는 메모 앱, 옵디시언을 아세요?](https://yozm.wishket.com/magazine/detail/2517/)  
+<br>
+
+> 240422
+1. To Do
 - [React - To Do List Part1](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-One)
   - Form tag
 - [React - To Do List Part2](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-Two)
