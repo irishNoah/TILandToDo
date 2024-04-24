@@ -1,18 +1,32 @@
 # TILandToDo
 배운 것과 한 것<br><br>
 
-> 240422
+> 240424
 1. To Do
+- [React - API(Coin Tracker)](https://velog.io/@irish/ReactJS-Movie-Web-Service-API-COINS)
 - [Trouble Shooting - [DBeaver(240424)] Cant’t lock worksapce at 폴더경로](https://fir-conga-fc3.notion.site/DBeaver-240424-Cant-t-lock-worksapce-at-a6a278314f5443c1a2b39760d4827904)
-- [Trouble Shooting - ]()
-- [Trouble Shooting - ]()
+- [Trouble Shooting - [SVN(240423)] Authentication error from server: Password incorrect](https://fir-conga-fc3.notion.site/SVN-240423-Authentication-error-from-server-Password-incorrect-33fad32770754101abcf6a6be37e0299)
+- [Trouble Shooting - [Nexacro(240424)] 동적 컴포넌트 생성 + 이벤트 할당](https://fir-conga-fc3.notion.site/Nexacro-240424-71c0447b847b470f9987d90d1d1f47f6)
 2. TIL
-- []()
+- [MDN & Web API - window](https://developer.mozilla.org/ko/docs/Web/API/Window)
+- [MDN & HTML - select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
+- [Web API - window 객체는 무엇인가?](https://velog.io/@jelkov/window-%EA%B0%9D%EC%B2%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+- [React - React-Router-Dom 개념잡기](https://velog.io/@kandy1002/React-Router-Dom-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0)
 3. Reference
-- [Trend - 요즘 뜨는 메모 앱, 옵디시언을 아세요?](https://yozm.wishket.com/magazine/detail/2517/)  
+- [AI - 영상 요약 Lilys AI](https://lilys.ai/)
+- [AWS - 클라우드란 무엇일까?](https://velog.io/@noyohanx/0.-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+- [AWS - AWS란 무엇인가](https://velog.io/@hanif/AWS%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+- [Blog - 이직 4번만에 IT대기업 합격 썰](https://velog.io/@recordsbeat/%EC%9D%B4%EC%A7%81-4%EB%B2%88%EB%A7%8C%EC%97%90-IT%EB%8C%80%EA%B8%B0%EC%97%85-%ED%95%A9%EA%B2%A9-%EC%8D%B0)
+- [Blog - 토스뱅크 FE 합격 후기 - NEXT 2023](https://velog.io/@zad1264/%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC-FE-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-NEXT-2023)
+- [Blog - 개발자가 취득 하면 좋은 자격증](https://velog.io/@donghyuk65/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B7%A8%EB%93%9D-%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%9E%90%EA%B2%A9%EC%A6%9D)
+- [Blog - (테오)영향력 있는 개발자 되기](https://yozm.wishket.com/magazine/detail/2521/)
+- [Blog - '안 돼요'라고 말하지 않는다](https://velog.io/@eddy_song/problem-solver)
+- [Blog - 요즘 뜨는 메모 앱, 옵디시언을 아세요?](https://yozm.wishket.com/magazine/detail/2517/)
+- [Blog - 실무에서 개발자는 여기까지만 알면 되는 도커 / 쿠버네티스](https://velog.io/@juunini/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%97%AC%EA%B8%B0%EA%B9%8C%EC%A7%80%EB%A7%8C-%EC%95%8C%EB%A9%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EC%BB%A4-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4)
+- [시스템 분석 - 더존](http://www.bestonesol.com/?gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVK0Wvg7jIlvpbrzuqQFoYCiwdw9o1mPIMGDbpq2o9hqHQFPhkP1DGhoCf8AQAvD_BwE)
 <br>
 
-> 240422
+> 240423
 1. To Do
 - [React - To Do List Part1](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-One)
   - Form tag
