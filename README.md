@@ -3,6 +3,16 @@
 
 > 240424
 1. To Do
+- None
+2. TIL
+- [Linux - rsync란? rsync 사용법 / rsync로 데이터 백업하기](https://velog.io/@inhwa1025/Linux-rsync%EB%9E%80-rsync-%EC%82%AC%EC%9A%A9%EB%B2%95-rsync%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%B1%EC%97%85%ED%95%98%EA%B8%B0)
+- [TypeScript - 실무용 TypeScript 10가지만 알면 됨](https://velog.io/@nanotoly/TypeScript-10-point)
+3. Reference
+- [Blog - 어제보다 1cm 더 성장하기: 네이버 권태관 개발자](https://yozm.wishket.com/magazine/detail/2539/)
+<br>
+
+> 240424
+1. To Do
 - [React - API(Coin Tracker)](https://velog.io/@irish/ReactJS-Movie-Web-Service-API-COINS)
 - [Trouble Shooting - [DBeaver(240424)] Cant’t lock worksapce at 폴더경로](https://fir-conga-fc3.notion.site/DBeaver-240424-Cant-t-lock-worksapce-at-a6a278314f5443c1a2b39760d4827904)
 - [Trouble Shooting - [SVN(240423)] Authentication error from server: Password incorrect](https://fir-conga-fc3.notion.site/SVN-240423-Authentication-error-from-server-Password-incorrect-33fad32770754101abcf6a6be37e0299)
