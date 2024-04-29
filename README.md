@@ -1,6 +1,26 @@
 # TILandToDo
 배운 것과 한 것<br><br>
 
+> 240429
+1. To Do
+- None
+2. TIL
+- [SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
+  - BETWEEN Operator는 주어진 범위에서 값을 선정한다. 이 값에는 숫자, 텍스트, 날짜가 들어갈 수 있다.
+3. Reference
+- [Blog - 2024 현시점 개발자 채용시장에 대한 이야기](https://velog.io/@whatever/2024-%ED%98%84%EC%8B%9C%EC%A0%90-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9%EC%8B%9C%EC%9E%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [Blog - 2023년 인프콘 후기 - #3 변별력을 200% 더 높인 개발자 채용방법](https://velog.io/@joshuara7235/2023%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-3-%EB%B3%80%EB%B3%84%EB%A0%A5%EC%9D%84-200-%EB%8D%94-%EB%86%92%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9%EB%B0%A9%EB%B2%95)
+<br>
+
+> 240427
+1. To Do
+- [2024 4월 4주차 Review](https://velog.io/@irish/2024-4-4-Review)
+2. TIL
+- None
+3. Reference
+- None
+<br>
+
 > 240426
 1. To Do
 - None
