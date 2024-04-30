@@ -4,6 +4,7 @@
 1. To Do
 - SQL-D 공부
 2. TIL
+- [Modern javascript - (try-catch-finally)](https://ko.javascript.info/try-catch)
 - [Oracle - 오라클 성능 고도화](https://velog.io/@yooha9621/series/%EC%98%A4%EB%9D%BC%ED%81%B4%EC%84%B1%EB%8A%A5%EA%B3%A0%EB%8F%84%ED%99%941)
 - [Oracle - Library cache 역할 및 확인](https://myjamong.tistory.com/207)
 - [DB - 옵티마이저(optimizer)](https://velog.io/@kwontae1313/%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80)
