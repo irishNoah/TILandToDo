@@ -1,11 +1,27 @@
 # TILandToDo
-배운 것과 한 것<br><br>
+
+> 240430
+1. To Do
+- SQL-D 공부
+2. TIL
+- [Oracle - 오라클 성능 고도화](https://velog.io/@yooha9621/series/%EC%98%A4%EB%9D%BC%ED%81%B4%EC%84%B1%EB%8A%A5%EA%B3%A0%EB%8F%84%ED%99%941)
+- [Oracle - Library cache 역할 및 확인](https://myjamong.tistory.com/207)
+- [DB - 옵티마이저(optimizer)](https://velog.io/@kwontae1313/%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80)
+3. Reference
+- [Youtube - 나를 제대로 알기 위한 3가지 방법 I 내가 뭘 원하는 지 모를 때](https://www.youtube.com/watch?v=E_g07KvU-10)
+- [Blog - 평범한 주니어 개발자의 회고글](https://velog.io/@leehyunho2001/%ED%8F%89%EB%B2%94%ED%95%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%9A%8C%EA%B3%A0%EA%B8%80)
+  - 회사에서 살아남기 / 개발자적인 사고방식 / 안된다고만 하지 말자 / 주도적으로 일하기
+- [Teo - 컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
+- [DEVRANKING](https://dev-ranking.vercel.app/)
+- [NEWS - '오늘의집' 버킷플레이스, 자체 결제 서비스 만든다](https://news.einfomax.co.kr/news/articleView.html?idxno=4307793)
+<br>
 
 > 240429
 1. To Do
 - [React - API + async() + await()](https://velog.io/@irish/React-API-async-await)
 - [javascript - Promise - 비동기 작업의 최종 완료 또는 실패를 나타내는 객체](https://velog.io/@irish/JS-Promise)
 - [javascript - async() + await() with try…catch](https://velog.io/@irish/JS-async-await)
+- SQL-D 공부
 2. TIL
 - [SQL BETWEEN Operator](https://www.w3schools.com/sql/sql_between.asp)
   - BETWEEN Operator는 주어진 범위에서 값을 선정한다. 이 값에는 숫자, 텍스트, 날짜가 들어갈 수 있다.
@@ -17,6 +33,15 @@
 3. Reference
 - [Blog - 2024 현시점 개발자 채용시장에 대한 이야기](https://velog.io/@whatever/2024-%ED%98%84%EC%8B%9C%EC%A0%90-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9%EC%8B%9C%EC%9E%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [Blog - 2023년 인프콘 후기 - #3 변별력을 200% 더 높인 개발자 채용방법](https://velog.io/@joshuara7235/2023%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-3-%EB%B3%80%EB%B3%84%EB%A0%A5%EC%9D%84-200-%EB%8D%94-%EB%86%92%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9%EB%B0%A9%EB%B2%95)
+<br>
+
+> 240428
+1. To Do
+- None
+2. TIL
+- None
+3. Reference
+- None
 <br>
 
 > 240427
