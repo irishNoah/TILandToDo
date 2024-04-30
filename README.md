@@ -2,6 +2,7 @@
 
 > 240430
 1. To Do
+- [React - Movie API](https://velog.io/@irish/React-Movie-API)
 - SQL-D 공부
 2. TIL
 - [Modern javascript - (try-catch-finally)](https://ko.javascript.info/try-catch)
