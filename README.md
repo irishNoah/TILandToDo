@@ -1,5 +1,30 @@
 # TILandToDo
 
+> 240501
+1. To Do
+- [React - Movie API + Install React Router Dom](https://velog.io/@irish/React-Movie-API-Install-React-Router-Dom)
+2. TIL
+- [React - React-Router-Dom 개념잡기](https://velog.io/@kandy1002/React-Router-Dom-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0)
+  - 라우팅 : 네트워크에서 경로를 선택하는 프로세스
+  - a 태그 대신 React-Router를 사용하는 이유
+    - SPA 사용자 경험 향상의 목적
+      - a 태그를 사용하면 페이지 전체가 새로 로딩
+        - 흔히 말하는 화면 깜빡임이 필수적으로 발생하고 이는 사용자 경험을 떨어뜨리는 큰 요인
+      - 따라서 라우팅을 통해 부드러운 화면전환을 이룰 수 있음
+- [Web - SPA와 기존 웹사이트의 차이](https://velog.io/@gwanuuoo/SPA%EB%8A%94-%EA%B8%B0%EC%A1%B4-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EC%B0%A8%EC%9D%B4)
+  - SPA(Single Page Application)
+    - 단일 페이지로 기존의 서버 사이드 렌더링과 비교할 때, 배포가 간단하며 네이티브 앱과 비슷한 사용자 경험을 제공한다는 장점이 있음
+    - 페이지 간 이동 시, 페이지 갱신에 필요한 데이터만을 JSON으로 전달받아 페이지를 갱신하므로 전체적인 트래픽을 감소할 수 있고, 전체 페이지를 다시 렌더링하지 않고 변경되는 부분만을 갱신하므로 새로고침이 발생하지 않아 네이티브 앱과 유사한 사용자 경험을 제공할 수 있음
+    - SPA가 모바일 웹에 최적화 된 이유이기도 하다. 속도, 사용성, 반응성의 향상으로 더 나은 사용자 경험을 기대할 수 있음
+- MPA(Multiple Page Application)
+  - link tag를 사용하는 전통적인 웹 방식
+  - 새로운 페이지 요청 시 마다 정적 리소스가 다운로드 되고 전체 페이지를 다시 렌더링하므로 새로고침이 발생되어 사용성이 좋지 않음
+  - 페이지에서 필요 없는 부분을 포함하여 전체를 갱신하기 때문에 비효율적
+  - 가장 큰 장점은 SPA와 달리, SEO에 친화적
+3. Reference
+- [Remix - React Router Quick Start](https://v5.reactrouter.com/web/guides/quick-start)
+<br>
+
 > 240430
 1. To Do
 - [React - Movie API](https://velog.io/@irish/React-Movie-API)
