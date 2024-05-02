@@ -3,6 +3,7 @@
 > 240501
 1. To Do
 - [React - (ReactJS로 영화 웹 서비스 만들기 실습) Movie API + React Router Dom](https://velog.io/@irish/React-Movie-API-React-Router-Dom)
+- SQL-D 공부
 2. TIL
 - [React > React-Router-Dom > Link 관련1](https://v5.reactrouter.com/web/api/Link)
 - [React > React-Router-Dom > Link 관련2](https://velog.io/@jinh2/React-링크-연결하기-Router-Link-useNavigate-hook)
@@ -16,6 +17,7 @@
 > 240501
 1. To Do
 - [React - (ReactJS로 영화 웹 서비스 만들기 실습) Movie API + Install React Router Dom](https://velog.io/@irish/React-Movie-API-Install-React-Router-Dom)
+- SQL-D 공부
 2. TIL
 - [React - React-Router-Dom 개념잡기](https://velog.io/@kandy1002/React-Router-Dom-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0)
   - 라우팅 : 네트워크에서 경로를 선택하는 프로세스
