@@ -2,7 +2,20 @@
 
 > 240501
 1. To Do
-- [React - Movie API + Install React Router Dom](https://velog.io/@irish/React-Movie-API-Install-React-Router-Dom)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) Movie API + React Router Dom](https://velog.io/@irish/React-Movie-API-React-Router-Dom)
+2. TIL
+- [React > React-Router-Dom > Link 관련1](https://v5.reactrouter.com/web/api/Link)
+- [React > React-Router-Dom > Link 관련2](https://velog.io/@jinh2/React-링크-연결하기-Router-Link-useNavigate-hook)
+- [React > React-Router-Dom > BrowserRouter 관련1](https://velog.io/@wiostz98kr/TIL49-l-React-리액트-라우터React-Router-사용하기-Feat.-SPA)
+- [React > React-Router-Dom > BrowserRouter 관련2](https://codingbroker.tistory.com/72)
+- [React > PropTypes 쓰는 이유, 방법](https://velog.io/@eunjin/React-PropTypes-쓰는-이유-방법)
+3. Reference
+- None
+<br>
+  
+> 240501
+1. To Do
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) Movie API + Install React Router Dom](https://velog.io/@irish/React-Movie-API-Install-React-Router-Dom)
 2. TIL
 - [React - React-Router-Dom 개념잡기](https://velog.io/@kandy1002/React-Router-Dom-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0)
   - 라우팅 : 네트워크에서 경로를 선택하는 프로세스
@@ -27,7 +40,7 @@
 
 > 240430
 1. To Do
-- [React - Movie API](https://velog.io/@irish/React-Movie-API)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) Movie API](https://velog.io/@irish/React-Movie-API)
 - SQL-D 공부
 2. TIL
 - [Modern javascript - (try-catch-finally)](https://ko.javascript.info/try-catch)
@@ -45,7 +58,7 @@
 
 > 240429
 1. To Do
-- [React - API + async() + await()](https://velog.io/@irish/React-API-async-await)
+- [React -(ReactJS로 영화 웹 서비스 만들기 실습) API + async() + await()](https://velog.io/@irish/React-API-async-await)
 - [javascript - Promise - 비동기 작업의 최종 완료 또는 실패를 나타내는 객체](https://velog.io/@irish/JS-Promise)
 - [javascript - async() + await() with try…catch](https://velog.io/@irish/JS-async-await)
 - SQL-D 공부
@@ -101,7 +114,7 @@
 
 > 240424
 1. To Do
-- [React - API(Coin Tracker)](https://velog.io/@irish/ReactJS-Movie-Web-Service-API-COINS)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) API(Coin Tracker)](https://velog.io/@irish/ReactJS-Movie-Web-Service-API-COINS)
 - [Trouble Shooting - [DBeaver(240424)] Cant’t lock worksapce at 폴더경로](https://fir-conga-fc3.notion.site/DBeaver-240424-Cant-t-lock-worksapce-at-a6a278314f5443c1a2b39760d4827904)
 - [Trouble Shooting - [SVN(240423)] Authentication error from server: Password incorrect](https://fir-conga-fc3.notion.site/SVN-240423-Authentication-error-from-server-Password-incorrect-33fad32770754101abcf6a6be37e0299)
 - [Trouble Shooting - [Nexacro(240424)] 동적 컴포넌트 생성 + 이벤트 할당](https://fir-conga-fc3.notion.site/Nexacro-240424-71c0447b847b470f9987d90d1d1f47f6)
@@ -126,9 +139,9 @@
 
 > 240423
 1. To Do
-- [React - To Do List Part1](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-One)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) To Do List Part1](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-One)
   - Form tag
-- [React - To Do List Part2](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-Two)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) To Do List Part2](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-toDoListPart-Two)
   - ul & li tag
 2. TIL
 - [javascript - form의 action 과 onSubmit의 차이](https://velog.io/@suminllll/form%EC%9D%98-action-%EA%B3%BC-onSubmit%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -173,7 +186,7 @@
 
 > 240419
 1. To Do
-- [React - useEffect & clean-up](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-clean-up)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) useEffect & clean-up](https://velog.io/@irish/ReactJS-Movie-Web-Service-useEffect-clean-up)
   - clean up 사용 이유
   - 미사용 예시 vs 사용 예시
 - World IT Show 2024 박람회 참관 
@@ -191,7 +204,7 @@
 
 > 240418
 1. To Do
-- [React - Hook & useEffect](https://velog.io/@irish/ReactJS-Movie-Web-Service-Hook-And-useEffect)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) Hook & useEffect](https://velog.io/@irish/ReactJS-Movie-Web-Service-Hook-And-useEffect)
   - Hook
   - useEffect 정의 / 선언 / 사용법 / 실습
 - World IT Show 2024 박람회 참관 
@@ -223,7 +236,7 @@
 
 > 240417
 1. To Do
-- [React - useState](https://velog.io/@irish/ReactJS-Movie-Web-Service-useState)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) useState](https://velog.io/@irish/ReactJS-Movie-Web-Service-useState)
   - useState 란
   - StrictMode 란
   - 트러블 슈팅 
@@ -238,8 +251,8 @@
 
 > 240416
 1. To Do
-- [React - React 환경 셋팅하기](https://velog.io/@irish/ReactJS-Movie-Web-Service-SettingReact)
-- [React - Component Modularization(컴포넌트 모듈화) & PropTypes](https://velog.io/@irish/ReactJS-Movie-Web-Service-Component-Modularization-PropTypes)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) React 환경 셋팅하기](https://velog.io/@irish/ReactJS-Movie-Web-Service-SettingReact)
+- [React - (ReactJS로 영화 웹 서비스 만들기 실습) Component Modularization(컴포넌트 모듈화) & PropTypes](https://velog.io/@irish/ReactJS-Movie-Web-Service-Component-Modularization-PropTypes)
 2. TIL
 - [React - node_modules, package.json, gitignore](https://velog.io/@joahkim/React-nodemodules-package.json-gitignore)
 - [React - PropTypes 쓰는 이유, 방법, 정의, 종류, 기본 함수, 정의 함수](https://velog.io/@eunjin/React-PropTypes-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%B0%A9%EB%B2%95)
