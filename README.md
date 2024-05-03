@@ -1,6 +1,28 @@
 # TILandToDo
 
-> 240501
+> 240503
+1. To Do
+- [Blog Posting > React > (ReactJS로 영화 웹 서비스 만들기 실습) Movie API + Parameters](https://velog.io/@irish/React-Movie-API-Parameters)
+- [Trouble Shooting > React > React Hook useEffect has a missing dependency](https://velog.io/@rgfdds98/debuging-React-Hook-useEffect-has-a-missing-dependency-fetchMovieData.-Either-include-it-or-remove-the-dependency-array)
+   - 개인으로 진행하는 프로젝트에서 useEffect()를 사용하다가 해당 에러를 접함
+   - 아래와 같은 코드를 작성하여 에러를 해결
+```javascript
+useEffect(() => {
+  expresstion
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+}, [])
+```
+- [Trouble Shooting > Oracle > ORA-00904: 부적합한 식별자 (invalid identifier)](https://tech.zinnunkebi.com/database/oracledb-tip/oracledb-ora-00904/)
+    - 실무에서 사용 할 쿼리에서 With문을 구성하는데 WITH문 테이블 옆에 넣어야 할 'AS' 키워드를 사용하지 않아서 에러가 발생했다.
+    - 옆에 'AS' 키워드를 넣어서 에러를 해결하였다.
+ 
+2. TIL
+- None
+3. Reference
+- None
+<br>
+
+> 240502
 1. To Do
 - [React - (ReactJS로 영화 웹 서비스 만들기 실습) Movie API + React Router Dom](https://velog.io/@irish/React-Movie-API-React-Router-Dom)
 - SQL-D 공부
